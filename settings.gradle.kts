@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MultiModuleDependency"
 include(":app")
+include(":testmodule")
